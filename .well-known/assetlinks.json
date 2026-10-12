@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.atrbpnproject.baleruang",
+      "sha256_cert_fingerprints": ["D8:58:FA:B2:BC:CD:6B:B0:D4:18:9C:51:86:F8:89:4A:8D:1C:9C:FF:0E:3A:73:0C:B0:31:64:F4:E7:B5:23:C0"]
+    }
+  }
+]
